@@ -1,0 +1,8 @@
+{
+  "name": "Spawn",
+  "version": "1.0",
+  "mainClass": "tk.coolv1994.plugins.spawn.Spawn",
+  "commands": {
+    "spawn": "tk.coolv1994.plugins.spawn.CommandSpawn"
+  }
+}
