@@ -1,0 +1,9 @@
+{
+	"commands": {
+		"spawn": {
+			"description": "Teleport to spawn.",
+			"usage": "!spawn",
+			"permission": "spawn.use"
+		}
+	}
+}

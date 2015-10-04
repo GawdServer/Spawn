@@ -1,8 +1,8 @@
 {
   "name": "Spawn",
-  "version": "1.0",
-  "mainClass": "tk.coolv1994.plugins.spawn.Spawn",
+  "version": "1.1",
+  "mainClass": "io.github.gawdserver.spawn.Spawn",
   "commands": {
-    "spawn": "tk.coolv1994.plugins.spawn.CommandSpawn"
+    "spawn": "io.github.gawdserver.spawn.CommandSpawn"
   }
 }
